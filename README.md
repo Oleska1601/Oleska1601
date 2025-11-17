@@ -1,4 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Olesya Frolova
+<br><br>
+![](https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM0MDU2MzQsIm5iZiI6MTc2MzQwNTMzNCwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE3VDE4NDg1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdkNWRmMWQ5NTg3Njc4YzkwOTFiNmM3OWJlZGEyNjM0MGJkZDk5OTNlMWMyMjUwNGQ4NGZjMzNmNTY3MjA3OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CaODbqskBOCy47IqI9Lhch7e9yLHksQOkUF4hDBKTqM)
 =======================================================================================================================================
 
 Junior golang Dev
@@ -23,6 +25,10 @@ Junior golang Dev
   <a href="https://t.me/oleeeeska" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/telegram/000000/FFFFFF" width="32" height="32" alt="Telegram" title="Telegram" />
   </a>
+
+  <a href="https://wa.me/79251468653" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/whatsapp/000000/FFFFFF" width="32" height="32" alt="WhatsApp" title="WhatsApp" />
+</a>
 </p>
 
 ### Badges
